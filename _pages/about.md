@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://discord.gg/gHZNrDtNSf'>OSINT Korea Founder</a>. CTI Analyst. Offensive Security Researcher.
 
 profile:
   align: right
