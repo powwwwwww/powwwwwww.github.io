@@ -1,10 +1,10 @@
 ---
 layout: page
-title: NK Writeup
-permalink: /nk-writeup/
+title: NK
+permalink: /nk/
 nav: true
 nav_order: 3
-description: North Korea-related OSINT writeups and investigations.
+description: North Korea-focused investigations.
 ---
 
 Content coming soon.
