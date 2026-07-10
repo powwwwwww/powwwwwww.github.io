@@ -7,20 +7,16 @@ nav_order: 2
 description: Open Source Intelligence notes and guides.
 ---
 
-<div class="page-header">
-  <h1>OSINT</h1>
-  <p>Open Source Intelligence notes and guides.</p>
-</div>
-
-<ul class="post-list">
+<div class="post-list">
   {% assign items = site.posts | where_exp: "post", "post.categories contains 'OSINT'" | sort: 'date' | reverse %}
-  {% for post in items %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      {% if post.description %}<p class="muted">{{ post.description }}</p>{% endif %}
-    </li>
-  {% endfor %}
-  {% if items == empty %}
-    <li>No posts yet.</li>
+  {% if items.size > 0 %}
+    {% for post in items %}
+      <div>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        {% if post.description %}<p>{{ post.description }}</p>{% endif %}
+      </div>
+    {% endfor %}
+  {% else %}
+    <p>No posts yet.</p>
   {% endif %}
-</ul>
+</div>
