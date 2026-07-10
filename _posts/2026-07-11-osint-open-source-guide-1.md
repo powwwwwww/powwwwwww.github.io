@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OSINT Example: Quick Guide — Part 1"
-date: 2026-07-11 10:30:00 +00:00
+date: 2026-07-10 10:30:00 +00:00
 categories: [OSINT]
 tags: [collection, tools]
 image: https://via.placeholder.com/800x400

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CTI Example: Campaign X — Part 1"
-date: 2026-07-11 09:00:00 +00:00
+date: 2026-07-10 09:00:00 +00:00
 categories: [CTI]
 tags: [malware, triage]
 image: https://via.placeholder.com/800x400

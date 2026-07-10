@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writeup: Sample Research — Part 1"
-date: 2026-07-11 11:00:00 +00:00
+date: 2026-07-10 11:00:00 +00:00
 categories: [Writeup]
 tags: [notes, tutorial]
 image: https://via.placeholder.com/800x400
