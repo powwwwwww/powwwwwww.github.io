@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='https://discord.gg/gHZNrDtNSf'>OSINT Korea Founder</a>. CTI Analyst. Offensive Security Researcher.
 
